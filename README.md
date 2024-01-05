@@ -58,7 +58,7 @@ Replace /path/to/SimpleMapper/SimpleMapper with the actual path to the SimpleMap
 
 Save and exit the editor. (In nano, press CTRL+X, then Y to confirm, and Enter to save.)
 
-Now, when you open a terminal session on your Raspberry Pi, the SimpleMapper application will start automatically."
+Now, when you open a terminal session on your Raspberry Pi, the SimpleMapper application will start automatically.
 
 ## Performance
 
