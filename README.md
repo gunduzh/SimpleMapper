@@ -2,7 +2,7 @@
 
 ## Overview
 
-SimpleMapper is a C++ application developed using openFrameworks, tailored for media playback and simple 4 points interactive video mapping. It uses `ofxOMXPlayer` for efficient video playback, making it ideal for platforms like Raspberry Pi. The application provides functionalities for video playback control, interactive adjustment of video mapping points, and system shutdown.
+SimpleMapper is a C++ application developed using openFrameworks, tailored for media playback and simple 4-point interactive video mapping. It uses `ofxOMXPlayer` for efficient video playback, making it ideal for platforms like Raspberry Pi. The application provides functionalities for video playback control, interactive adjustment of video mapping points, and system shutdown.
 
 ## Downloadable Release
 
