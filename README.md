@@ -39,9 +39,26 @@ A compiled and ready-to-use version of SimpleMapper is available for download. T
    - Press `r` to reset the points to default positions.
    - Press `d` to toggle the drawing of the video.
 3. **Close Application**:
-   - Press `Esc`.
+   - Press `Esc` or 'Ctrl+C'.
 4. **Shutdown**: 
    - Long press `q` to initiate system shutdown.
+
+## Starting SimpleMapper on Raspberry Pi Startup
+
+To automatically start the SimpleMapper application when you open a terminal session on Raspberry Pi, add the following line to the `.bashrc` file:
+
+1. Open the `.bashrc` file in a text editor:
+   ```bash
+   nano ~/.bashrc
+2. Add the following line at the end of the file:
+   ```bash
+   /path/to/SimpleMapper/SimpleMapper
+
+   Replace /path/to/SimpleMapper/SimpleMapper with the actual path to the SimpleMapper executable.
+
+   Save and exit the editor. (In nano, press CTRL+X, then Y to confirm, and Enter to save.)
+
+Now, when you open a terminal session on your Raspberry Pi, the SimpleMapper application will start automatically."
 
 ## Performance
 
